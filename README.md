@@ -1,4 +1,4 @@
-# Personalized and Safe Exercise Recommendation System
+## Personalized and Safe Exercise Recommendation System
 
 **Objective:** Integrate exercise data with FMS assessment results to create a personalized and safe exercise recommendation system.
 
